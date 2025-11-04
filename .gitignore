@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PDFs (course materials)
+*.pdf
+
+# Documentation files
+NOTEBOOK_STRUCTURE.md
+implementation_status.md
